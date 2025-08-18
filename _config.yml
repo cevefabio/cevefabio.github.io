@@ -1,11 +1,2 @@
 remote_theme: just-the-docs/just-the-docs
 
-nav_external_links:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
