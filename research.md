@@ -4,8 +4,20 @@ title: Research
 permalink: /research/
 ---
 
-Here you can find an overview of my research projects, publications, and ongoing work.  
+# Research  
 
-- Topic 1: [Short description]  
-- Topic 2: [Short description]  
-- Topic 3: [Short description]  
+## Working Papers  
+- *Titolo del paper 1* – breve descrizione o link al pdf  
+- *Titolo del paper 2* – breve descrizione o link  
+
+---
+
+## Work in Progress  
+- *Titolo progetto 1* – due righe di spiegazione  
+- *Titolo progetto 2* – due righe di spiegazione  
+
+---
+
+## Published Works  
+- *Articolo 1*, Rivista X, anno. [Link all’articolo](#)  
+- *Articolo 2*, Rivista Y, anno. [Link all’articolo](#)  
