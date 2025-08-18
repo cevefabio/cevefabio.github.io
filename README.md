@@ -1,4 +1,7 @@
-Hi, I am Fabio Cevenini.
+
+# Hi, I am Fabio Cevenini 👋
+
+<img src="cevenini_1.jpeg" alt="Picture - Fabio Cevenini" width="180" style="border-radius:50%; display:block; margin-top:10px; margin-bottom:20px;" align="left">
 
 I am a postdoctoral researcher at the Applied Environmental and Energy Economics Lab (A3EL) at the University of Trento.
 
