@@ -1,5 +1,3 @@
-# cevefabio.github.io
-
 Hi, I am Fabio Cevenini.
 
 I am a postdoctoral researcher at the Applied Environmental and Energy Economics Lab (A3EL) at the University of Trento.
