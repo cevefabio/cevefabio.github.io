@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Fabio Cevenini
 Description: Ciao!
+
+navigation:
+  - title: Research
+    url: /research/
