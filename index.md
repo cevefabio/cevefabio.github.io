@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: 0
+permalink: /
+---
+
 # Hi, I am Fabio Cevenini!
 
 <img src="cevenini_1.jpeg" 
