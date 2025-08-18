@@ -1,6 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: just-the-docs/just-the-docs
 
-nav:
+# Navbar links (in alto a destra)
+nav_external_links:
   - title: "Home"
     url: /
   - title: "Research"
