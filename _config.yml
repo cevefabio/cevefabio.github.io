@@ -1,6 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
 
-# Navbar links (in alto a destra)
 nav_external_links:
   - title: "Home"
     url: /
