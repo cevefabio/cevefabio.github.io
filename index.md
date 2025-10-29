@@ -11,7 +11,7 @@ permalink: /
      width="180" 
      style="float:left; margin-right:20px; margin-bottom:20px;">
 
-I am a postdoctoral researcher at the Applied Environmental and Energy Economics Lab (A3EL) at the University of Trento.
+I am a postdoctoral researcher at the [Applied Environmental and Energy Economics Lab (A3EL)](https://sites.google.com/view/a3el/home) at the University of Trento.
 
 I earned my PhD from the University of Trento in 2025. During my doctoral studies, I visited the EmLab in Santa Barbara (CA) and the Choice Modelling Center in Leeds (UK). 
 
