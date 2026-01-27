@@ -60,18 +60,18 @@ If you are interested in the full working papers, just reach me out!
       with Clementina Crocè, <a href="https://sites.google.com/view/carlofezzi/" target="_blank" rel="noopener">Carlo Fezzi</a>, and Rosario Guaia
     </span>
   </summary>
-  <p><strong>Description.</strong> This project aim to provide a causal assessment of how Marine Protected Areas affect local economic performance We combine the staggered rollout of MPAs in Italy with administrative firm balance-sheet data for coastal municipalities to estimate how protection reshapes revenues and sectoral activity in nearby communities.</p>
+  <p><strong>Description.</strong> This project aim to provide a causal assessment of how Marine Protected Areas affect local economic performance. We combine the staggered rollout of MPAs in Italy with administrative firm balance-sheet data for coastal municipalities to estimate how protection reshapes revenues and sectoral activity in nearby communities.</p>
 </details>
+
 
 
 <details>
   <summary>
     <strong>Burning Minds: Unpacking the Impact of Extreme Heat and Pollution on Mental Health</strong><br/>
     <span>
-      with Andrea Berlanda, Elisabetta Lodigiani, Elisa Tosetti, and Giorgio Vittadini
+      with  <a href="https://sites.google.com/view/andrea-berlanda/home-page" target="_blank" rel="noopener">Andrea Berlanda</a>, <a href="https://sites.google.com/site/elilodigiani/home" target="_blank" rel="noopener">Elisabetta Lodigiani</a>, Elisa Tosetti, and Giorgio Vittadini
     </span>
   </summary>
-
   <p><strong>Description.</strong> This project studies how extreme heat affects severe mental-health outcomes and whether air pollution (especially PM2.5) amplifies these effects. Using the universe of healthcare data (such as hospitalization and drug prescriprion) for the italian region of Lombardy matched with high-frequency climate and air-quality data, we aim to identify the causal effect of temperature and air pollution on different mental health outcomes.</p>
 </details>
 
