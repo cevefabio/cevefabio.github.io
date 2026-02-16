@@ -4,7 +4,7 @@ nav_order: 0
 permalink: /
 ---
 
-# Hi, I am Fabio Cevenini!
+# Fabio Cevenini
 
 <img src="immagine per sito.jpg" 
      alt="Picture - Fabio Cevenini" 
