@@ -46,19 +46,6 @@ If you are interested in the full working papers, just reach me out!
 <div style="margin-bottom:14px;"></div>
 
 
-<details>
-  <summary>
-    <strong></strong><br/>
-    <div style="margin-top:6px;">
-      with Sandra Notaro, Silvia Ferrini, and Fabio Grati
-    </div>
-  </summary>
-
-  <div style="margin-top:10px;">
-    <p><strong>Abstract.</strong> Two drivers of the status quo bias are explored via a split-sample survey with a pivot-designed Discrete Choice Experiment interviewing recreational fishers in Italy. The propensity to favor the status quo over hypothetical alternatives given an individual reference point (“dispersion”) is examined and modelled accordingly. The framing of the status quo alternative is explored as either a reference point or an opt-out option. When the status quo is framed as an individual-specific reference, the bias increases with dispersion, potentially distorting willingness-to-pay estimates. When framed as an opt-out option, dispersion effects weaken, improving robustness. A novel random utility model accounting for dispersion is proposed and tested via Monte Carlo simulations.</p>
-  </div>
-</details>
-
 
 
 ---
