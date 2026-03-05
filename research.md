@@ -20,7 +20,7 @@ If you are interested in the full working papers, just reach me out!
     <a href="http://www.christopherjcostello.com/" target="_blank" rel="noopener">Christopher Costello</a>
   </div>
   <div style="margin-top:6px;">
-    <em>Awarded the Best Italian Young Environmental Economist Award by <a href="https://www.iaere.org/" target="_blank" rel="noopener">IAERE</a>.</em>
+    <em> Italian Young Environmental Economist Award by <a href="https://www.iaere.org/" target="_blank" rel="noopener">IAERE</a>.</em>
   </div>
 </summary>
 
