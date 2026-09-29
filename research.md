@@ -19,8 +19,11 @@ If you are interested in the full working papers, just reach me out!
     with <a href="https://sites.google.com/view/carlofezzi/" target="_blank" rel="noopener">Carlo Fezzi</a> and
     <a href="http://www.christopherjcostello.com/" target="_blank" rel="noopener">Christopher Costello</a>
   </div>
+    <div style="margin-top:6px;">
+    <em>  Italian Economic Society (<a href="https://www.siecon.org/it/premi-sie/premio-dottorato-di-ricerca-2021/sintesi-tesi-premio-sie-dottorato-di-ricerca-2021" target="_blank" rel="noopener">SIE</a> </em>) Best Doctoral Thesis Award  
+  </div>
   <div style="margin-top:6px;">
-    <em> Italian Young Environmental Economist Award by <a href="https://www.iaere.org/" target="_blank" rel="noopener">IAERE</a>.</em>
+    <em>  Italian Young Environmental Economist Award by <a href="https://www.iaere.org/" target="_blank" rel="noopener">IAERE</a>.</em>
   </div>
 </summary>
 
@@ -49,10 +52,25 @@ If you are interested in the full working papers, just reach me out!
 <div style="margin-bottom:14px;"></div>
 
 
+<details>
+  <summary>
+    <strong>The impact of extreme heat on suicides in prisons (short paper) </strong><br/>
+    <div style="margin-top:6px;">
+      Pre-print <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7518581" target="_blank" rel="noopener">here</a>
+    </div>
+  </summary>
+  <div style="margin-top:10px;">
+    <p><strong>Abstract.</strong> I study the effect of high temperatures on suicides in prisons. I combine event-level data on suicides across Italian correctional institutions between 2002 and 2024 with hourly gridded temperature data, constructing a panel of 44,712 institution-month observations and 1,259 suicides. I estimate two fixed-effects Poisson models relating monthly suicide counts to flexible measures of temperature exposure exploiting the variation in local temperature from institution-specific seasonal patterns, controlling for institutional changes and other national shocks. I find that suicide incidence increases markedly when outdoor temperatures exceed 25°C: ten additional hours above this threshold, relative to the 15--20°C range, increase expected monthly suicides by approximately 4.6%. An illustrative cost-effectiveness analysis suggests that installing air conditioning in Italian prisons could prevent between 3.65 and 6.25 suicides per year, depending on the coverage level, with an estimated cost of €1.55-€1.81 million per suicide avoided.</p>
+  </div>
+</details>
+<div style="margin-bottom:14px;"></div>
+
+
+
 
 
 ---
-## Work in Progress
+## Selected work in Progress
 <details>
   <summary>
     <strong>Conservation against Local Growth? Assessing the Economic Consequences of Marine Protection</strong><br/>
@@ -64,15 +82,15 @@ If you are interested in the full working papers, just reach me out!
 </details>
 
 
-
 <details>
   <summary>
-    <strong>Burning Minds: Unpacking the Impact of Extreme Heat and Pollution on Mental Health</strong><br/>
+    <strong> Following the fish: spatial adaptation to climate change  </strong><br/>
     <span>
-      with  <a href="https://sites.google.com/view/andrea-berlanda/home-page" target="_blank" rel="noopener">Andrea Berlanda</a>, <a href="https://sites.google.com/site/elilodigiani/home" target="_blank" rel="noopener">Elisabetta Lodigiani</a>, Elisa Tosetti, and Giorgio Vittadini
+      with  Marco Tomasi
     </span>
   </summary>
-  <p><strong>Description.</strong> This project studies how extreme heat affects severe mental-health outcomes and whether air pollution (especially PM2.5) amplifies these effects. Using the universe of healthcare data (such as hospitalization and drug prescriprion) for the italian region of Lombardy matched with high-frequency climate and air-quality data, we aim to identify the causal effect of temperature and air pollution on different mental health outcomes.</p>
+  <p><strong>Description.</strong> This project studies climate adaptation in global fisheries. We combine global data on fishing effort with daily information on wave conditions and sea surface temperature to estimate the spatial impulse response of fishing effort to temperature shocks. The underlying intuition is that, as changes in temperature make some fishing grounds less profitable, fishers may adapt by reallocating their effort across space.
+ .</p>
 </details>
 
 
@@ -92,7 +110,7 @@ If you are interested in the full working papers, just reach me out!
 
 ## Published Work
 
-- **Cevenini, F. et al.** (2026). [* Dispersion-induced status quo bias in pivot-designed Choice Experiment*]([https://doi.org/10.1016/j.marpol.2025.106901](https://doi.org/10.1016/j.jocm.2026.100596)). *Journal of choice modelling*. [Code and data on my github](https://github.com/cevefabio/Dispersion_SQ_JCM). 
+- **Cevenini, F. et al.** (2026). [Dispersion-induced status quo bias in pivot-designed Choice Experiment]([https://doi.org/10.1016/j.marpol.2025.106901](https://doi.org/10.1016/j.jocm.2026.100596)). *Journal of choice modelling*. [Code and data on my github](https://github.com/cevefabio/Dispersion_SQ_JCM). 
 - **Cevenini, F. et al.** (2026). [*Enhancing cost-effectiveness in marine recreational fishing assessment: Flexible model-based estimation of participation rates and effort*](https://doi.org/10.1016/j.marpol.2025.106901). *Marine Policy*. [Code and data on my github](https://github.com/cevefabio/MRF-GAM-estimation-).
 - **Cevenini, F. et al.** (2025). [*Preferences for bio-textile sneakers: the interaction between social norms, environmental and social sustainability*](https://doi.org/10.1016/j.clrc.2025.100292). *Cleaner and Responsible Consumption*.
 - **Cevenini, F. et al.** (2023). [*Assessing the welfare impacts of changes in recreational fisheries management: A modelling approach for European sea bass*](https://doi.org/10.1016/j.marpol.2022.105408). *Marine Policy*.
