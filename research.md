@@ -42,6 +42,9 @@ If you are interested in the full working papers, just reach me out!
       with Mia Comeros, <a href="https://sites.google.com/view/carlofezzi/" target="_blank" rel="noopener">Carlo Fezzi</a>, and
       <a href="https://olesonlab.org/" target="_blank" rel="noopener">Kirsten Oleson</a>
     </div>
+    <div style="margin-top:6px;">
+      <em>Conditionally accepted, Environmental and Resource Economics.</em>
+    </div>
   </summary>
 
   <div style="margin-top:10px;">
